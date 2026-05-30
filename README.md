@@ -164,7 +164,7 @@ This dashboard provides a high-level business performance summary.
 
 ## Dashboard Preview
 
-![Executive Overview](images/executive_dashboard.png)
+![Executive Overview](Images/executive_dashboard.png)
 
 ### Key Insights
 
@@ -197,7 +197,7 @@ This dashboard focuses on sales performance and profitability trends.
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](images/sales_dashboard.png)
+![Sales Analysis Dashboard](Images/sales_dashboard.png)
 
 ### Key Insights
 
@@ -229,7 +229,7 @@ This dashboard analyzes customer behavior and product performance.
 
 ## Dashboard Preview
 
-![Product Dashboard](images/product_customer_dashboard.png)
+![Product Dashboard](Images/product_customer_dashboard.png)
 
 ### Key Insights
 
